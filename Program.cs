@@ -18,5 +18,9 @@ namespace cse210_tc03
         {
             Console.WriteLine("Hello from Christian Viazzo.");
         }
+        static void DisplayGreetingSkalka()
+        {
+            Console.WriteLine("Hello from Tyler Skalka");
+        }
     }
 }
