@@ -10,6 +10,7 @@ namespace cse210_tc03
             DisplayGreetingAvila();
             DisplayGreetingViazzo();
             DisplayGreetingSkalka();
+            DisplayGreetingRoskelley();
         }
         static void DisplayGreetingAvila()
         {
@@ -22,6 +23,10 @@ namespace cse210_tc03
         static void DisplayGreetingSkalka()
         {
             Console.WriteLine("Hello from Tyler Skalka");
+        }
+          static void DisplayGreetingRoskelley()
+        {
+            Console.WriteLine("Hello from Brighton Roskelley.");
         }
     }
 }
