@@ -9,6 +9,7 @@ namespace cse210_tc03
             Console.WriteLine("Welcome to our collaborative program.");
             DisplayGreetingAvila();
             DisplayGreetingViazzo();
+            DisplayGreetingSkalka();
         }
         static void DisplayGreetingAvila()
         {
